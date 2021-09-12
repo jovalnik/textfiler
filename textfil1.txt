@@ -1,4 +1,4 @@
 Detta är min 1:a text.
 Det här är tillagt senare.
 detta ännu senare.
-ännu senare ändrar jag "första" i första raden till 1:a ocg lägger till den här raden.
+ännu senare ändrar jag "första" i första raden till 1:a och lägger till den här raden.
